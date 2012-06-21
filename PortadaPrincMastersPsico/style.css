@@ -1,0 +1,20 @@
+/*  
+Theme Name: Portada Principal Masters Psicología
+Theme URI: http://mecus.es
+Description: Convert your social Network to orkut Style Site, supported for Bp 1.2
+Version: 1.2
+Author: Rocío Valdivia
+Author URI: http://mecus.es
+Tags: buddypress, widget ready
+*/
+
+/* Font styles */
+@import url( _inc/css/fonts/12px.css );
+
+
+/* Admin bar styles */
+@import url( _inc/css/adminbar.css );
+
+/* The main stylesheet*/
+@import url( _inc/css/screen.css );
+@import url( _inc/css/components.css);
